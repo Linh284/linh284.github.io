@@ -1,11 +1,11 @@
-# Hi, I'm John Doe 👋  
-🚀 Software Developer | 🎨 UI/UX Designer | 🔗 [My Website](https://johndoe.com)  
+# Hi, I'm Linh 👋  
+🚀 Software Developer | 🎨 UI/UX Designer | 🔗 [My Website](https://linh.com)  
 
 ### 📌 Projects  
-- 🌟 [E-commerce Website](https://github.com/johndoe/ecommerce)  
-- 📊 [Data Visualization App](https://github.com/johndoe/dataviz)  
+- 🌟 [E-commerce Website](https://github.com/linh/ecommerce)  
+- 📊 [Data Visualization App](https://github.com/linh/dataviz)  
 
 ### 📫 Contact  
-- 📧 Email: johndoe@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
+- 📧 Email: linh@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/linh](https://linkedin.com/in/linh)  
 
